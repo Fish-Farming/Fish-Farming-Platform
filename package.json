@@ -53,6 +53,7 @@
     "@popperjs/core": "^2.11.2",
     "apexcharts-clevision": "3.28.5",
     "clsx": "^1.1.1",
+    "leaflet": "^1.8.0",
     "mdi-material-ui": "^7.1.0",
     "next": "12.0.4",
     "nprogress": "^0.2.0",
@@ -62,9 +63,10 @@
     "react-dom": "17.0.2",
     "react-perfect-scrollbar": "^1.5.8",
     "react-popper": "^2.2.5",
-    "sass": "^1.54.8"
+    "react-leaflet": "3.2.5"
   },
   "devDependencies": {
+    "@types/leaflet": "^1.7.11",
     "@types/node": "16.11.11",
     "@types/nprogress": "^0.2.0",
     "@types/react": "17.0.37",

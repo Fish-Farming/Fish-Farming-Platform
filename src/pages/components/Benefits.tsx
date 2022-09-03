@@ -9,12 +9,12 @@ class Benefits extends React.Component {
                 <div className="col-lg-5">
                     <div className="features-box">
                         <h3>Benefits</h3>
-                        <h4 className="text-muted web-desc">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.</h4>
+                        <h4 className="text-muted web-desc">Integrated dashboard to display all fishponds.</h4>
                         <ul className="text-muted list-unstyled margin-t-30 features-item-list">
-                            <li className=""><h4>We put a lot of effort in design.</h4></li>
-                            <li className=""><h4>The most important ingredient of successful website.</h4></li>
-                            <li className=""><h4>Sed ut perspiciatis unde omnis iste natus error sit.</h4></li>
-                            <li className=""><h4>Submit Your Orgnization.</h4></li>
+                            <li className=""><h4>Real time water quality</h4></li>
+                            <li className=""><h4>Feeding recording</h4></li>
+                            <li className=""><h4>Intelligent environment monitoring</h4></li>
+                            <li className=""><h4>Warning on problems</h4></li>
                         </ul>
                         <a href="javascript:void(0);" className="btn btn-custom margin-t-30 waves-effect waves-light">Learn More <i className="mdi mdi-arrow-right"></i></a>
                     </div>

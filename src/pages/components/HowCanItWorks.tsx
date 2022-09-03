@@ -39,29 +39,7 @@ class HowCanItWorks extends React.Component {
                         </div>
                     </div>
                 </div>
-                <div className="row margin-t-30">
-                    <div className="col-lg-4 margin-t-20">
-                        <div className="HowCanItWorks-box text-center hover-effect">
-                            <i className="pe-7s-science text-custom"></i>
-                            <h4 className="padding-t-15">Awesome Support</h4>
-                            <h4 className="padding-t-15 text-muted " >It is a paradisematic country, in which roasted parts of sentences fly into your mouth leave for the far World.</h4>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 margin-t-20">
-                        <div className="HowCanItWorks-box text-center hover-effect">
-                            <i className="pe-7s-news-paper text-custom"></i>
-                            <h4 className="padding-t-15">Truly Multipurpose</h4>
-                            <h4 className="padding-t-15 text-muted">Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</h4>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 margin-t-20">
-                        <div className="HowCanItWorks-box text-center hover-effect">
-                            <i className="pe-7s-plane text-custom"></i>
-                            <h4 className="padding-t-15">Easy to customize</h4>
-                            <h4 className="padding-t-15 text-muted">Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia.</h4>
-                        </div>
-                    </div>
-                </div>
+                
             </div>
         </section>
   	);

@@ -10,6 +10,7 @@ import Switcher from './components/Switcher';
 import BackgroundVideo from './components/BackgroundVideo';
 import Head from 'next/head'
 import BlankLayout from 'src/@core/layouts/BlankLayout';
+import Map from './components/Map';
 
 const HomeOne = () => {
     return (
@@ -58,6 +59,7 @@ const HomeOne = () => {
 
             {/* Location Component*/}
             <Location />
+            {/*<Map lat="22.2762958" lon="114.1785374" />*/}
 
             {/* SocialMedia Component*/}
             <SocialMedia />
